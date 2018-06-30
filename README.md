@@ -4,7 +4,7 @@ A Universal Windows Platform application that calls the Open Weather API and dis
 
 Read about deserializing JSON in C# and using the HttpClient to call APIs here:
 
-http://lilstech.com
+http://liliankasem.com/2015/10/17/api-calls-using-httpclient-and-deserializing-json-in-c/
 
 Follow the full Windows 10 development series (and learn about how this application was made) here:
 
